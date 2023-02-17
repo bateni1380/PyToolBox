@@ -1,7 +1,7 @@
 # Python Toolbox
 This module is a collection of some tools that I've used in my python projects. I am planning to fill this collection as I go on in programming.
 
-#### [version_controller](https://github.com/bateni1380/PyToolBox/blob/main/DebuggerNotebook.ipynb)
+## [version_controller](https://github.com/bateni1380/PyToolBox/blob/main/DebuggerNotebook.ipynb)
 This is a version controller like git hub but for variables.
 First can instantiate an object of this class.
 ```python 
@@ -22,7 +22,7 @@ Now you have a version controller and you can use
 You can see a full documentation [here](https://github.com/bateni1380/PyToolBox/blob/main/DebuggerNotebook.ipynb).
 
 
-#### [debugger](https://github.com/bateni1380/PyToolBox/blob/main/DebuggerNotebook.ipynb)
+## [debugger](https://github.com/bateni1380/PyToolBox/blob/main/DebuggerNotebook.ipynb)
 
 This class is a class to observe status of the code. 
 

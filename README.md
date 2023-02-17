@@ -30,6 +30,7 @@ You can create an instance of this class and whenever you want to print somethin
 
 This class provides you many tools in order to observe the status of you're program better.
 ```python 
+from pytoolbox.debugger import Debugger
 debugger = Debugger(textual_debug=True, show_line=True)
 debugger.log_start('PHASE1')
 debugger.log('PHASE2')      
